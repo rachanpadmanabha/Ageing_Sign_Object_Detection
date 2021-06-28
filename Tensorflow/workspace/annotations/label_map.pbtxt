@@ -1,0 +1,12 @@
+item { 
+	name:'WRINKLES'
+	id:1
+}
+item { 
+	name:'DARK_SPOTS'
+	id:2
+}
+item { 
+	name:'PUFFY_EYES'
+	id:3
+}
